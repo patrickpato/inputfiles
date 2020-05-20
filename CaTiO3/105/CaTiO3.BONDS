@@ -1,0 +1,65 @@
+Neighbors of:     1 Ca at:   0.0000  0.0000  0.0000
+    4 O                     2.8591  Ang. Really at:   3.8204  0.0000 -3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000  3.8204 -3.8204
+    5 O                     2.8591  Ang. Really at:  -3.8204 -3.8204  0.0000
+    5 O                     2.8591  Ang. Really at:   3.8204 -3.8204  0.0000
+    4 O                     2.8591  Ang. Really at:  -3.8204  0.0000 -3.8204
+    5 O                     2.8591  Ang. Really at:  -3.8204  3.8204  0.0000
+    5 O                     2.8591  Ang. Really at:   3.8204  3.8204  0.0000
+    3 O                     2.8591  Ang. Really at:   0.0000 -3.8204  3.8204
+    4 O                     2.8591  Ang. Really at:  -3.8204  0.0000  3.8204
+    4 O                     2.8591  Ang. Really at:   3.8204  0.0000  3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000  3.8204  3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000 -3.8204 -3.8204
+Neighbors of:     2 Ti at:   3.8204  3.8204  3.8204
+    3 O                     2.0217  Ang. Really at:   0.0000  3.8204  3.8204
+    4 O                     2.0217  Ang. Really at:   3.8204  0.0000  3.8204
+    3 O                     2.0217  Ang. Really at:   7.6408  3.8204  3.8204
+    4 O                     2.0217  Ang. Really at:   3.8204  7.6408  3.8204
+    5 O                     2.0217  Ang. Really at:   3.8204  3.8204  7.6408
+    5 O                     2.0217  Ang. Really at:   3.8204  3.8204  0.0000
+Neighbors of:     3 O at:   0.0000  3.8204  3.8204
+    2 Ti                    2.0217  Ang. Really at:   3.8204  3.8204  3.8204
+    2 Ti                    2.0217  Ang. Really at:  -3.8204  3.8204  3.8204
+    5 O                     2.8591  Ang. Really at:   3.8204  3.8204  0.0000
+    4 O                     2.8591  Ang. Really at:   3.8204  0.0000  3.8204
+    5 O                     2.8591  Ang. Really at:   3.8204  3.8204  7.6408
+    4 O                     2.8591  Ang. Really at:  -3.8204  0.0000  3.8204
+    1 Ca                    2.8591  Ang. Really at:   0.0000  7.6408  0.0000
+    4 O                     2.8591  Ang. Really at:  -3.8204  7.6408  3.8204
+    4 O                     2.8591  Ang. Really at:   3.8204  7.6408  3.8204
+    1 Ca                    2.8591  Ang. Really at:   0.0000  0.0000  7.6408
+    5 O                     2.8591  Ang. Really at:  -3.8204  3.8204  7.6408
+    5 O                     2.8591  Ang. Really at:  -3.8204  3.8204  0.0000
+    1 Ca                    2.8591  Ang. Really at:   0.0000  7.6408  7.6408
+    1 Ca                    2.8591  Ang. Really at:   0.0000  0.0000  0.0000
+Neighbors of:     4 O at:   3.8204  0.0000  3.8204
+    2 Ti                    2.0217  Ang. Really at:   3.8204 -3.8204  3.8204
+    2 Ti                    2.0217  Ang. Really at:   3.8204  3.8204  3.8204
+    1 Ca                    2.8591  Ang. Really at:   7.6408  0.0000  0.0000
+    5 O                     2.8591  Ang. Really at:   3.8204 -3.8204  7.6408
+    3 O                     2.8591  Ang. Really at:   7.6408 -3.8204  3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000 -3.8204  3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000  3.8204  3.8204
+    5 O                     2.8591  Ang. Really at:   3.8204  3.8204  0.0000
+    3 O                     2.8591  Ang. Really at:   7.6408  3.8204  3.8204
+    1 Ca                    2.8591  Ang. Really at:   0.0000  0.0000  0.0000
+    1 Ca                    2.8591  Ang. Really at:   0.0000  0.0000  7.6408
+    1 Ca                    2.8591  Ang. Really at:   7.6408  0.0000  7.6408
+    5 O                     2.8591  Ang. Really at:   3.8204  3.8204  7.6408
+    5 O                     2.8591  Ang. Really at:   3.8204 -3.8204  0.0000
+Neighbors of:     5 O at:   3.8204  3.8204  0.0000
+    2 Ti                    2.0217  Ang. Really at:   3.8204  3.8204  3.8204
+    2 Ti                    2.0217  Ang. Really at:   3.8204  3.8204 -3.8204
+    1 Ca                    2.8591  Ang. Really at:   0.0000  0.0000  0.0000
+    3 O                     2.8591  Ang. Really at:   0.0000  3.8204  3.8204
+    1 Ca                    2.8591  Ang. Really at:   7.6408  0.0000  0.0000
+    4 O                     2.8591  Ang. Really at:   3.8204  7.6408 -3.8204
+    1 Ca                    2.8591  Ang. Really at:   0.0000  7.6408  0.0000
+    1 Ca                    2.8591  Ang. Really at:   7.6408  7.6408  0.0000
+    4 O                     2.8591  Ang. Really at:   3.8204  0.0000  3.8204
+    3 O                     2.8591  Ang. Really at:   7.6408  3.8204 -3.8204
+    3 O                     2.8591  Ang. Really at:   0.0000  3.8204 -3.8204
+    3 O                     2.8591  Ang. Really at:   7.6408  3.8204  3.8204
+    4 O                     2.8591  Ang. Really at:   3.8204  7.6408  3.8204
+    4 O                     2.8591  Ang. Really at:   3.8204  0.0000 -3.8204

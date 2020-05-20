@@ -1,0 +1,65 @@
+Neighbors of:     1 Ba at:   0.0000  0.0000  0.0000
+    4 O                     2.6803  Ang. Really at:   3.5815  0.0000 -3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000  3.5815 -3.5815
+    5 O                     2.6803  Ang. Really at:  -3.5815 -3.5815  0.0000
+    5 O                     2.6803  Ang. Really at:   3.5815 -3.5815  0.0000
+    4 O                     2.6803  Ang. Really at:  -3.5815  0.0000 -3.5815
+    5 O                     2.6803  Ang. Really at:  -3.5815  3.5815  0.0000
+    5 O                     2.6803  Ang. Really at:   3.5815  3.5815  0.0000
+    3 O                     2.6803  Ang. Really at:   0.0000 -3.5815  3.5815
+    4 O                     2.6803  Ang. Really at:  -3.5815  0.0000  3.5815
+    4 O                     2.6803  Ang. Really at:   3.5815  0.0000  3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000  3.5815  3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000 -3.5815 -3.5815
+Neighbors of:     2 Ti at:   3.5815  3.5815  3.5815
+    3 O                     1.8953  Ang. Really at:   0.0000  3.5815  3.5815
+    4 O                     1.8953  Ang. Really at:   3.5815  0.0000  3.5815
+    3 O                     1.8953  Ang. Really at:   7.1630  3.5815  3.5815
+    4 O                     1.8953  Ang. Really at:   3.5815  7.1630  3.5815
+    5 O                     1.8953  Ang. Really at:   3.5815  3.5815  7.1630
+    5 O                     1.8953  Ang. Really at:   3.5815  3.5815  0.0000
+Neighbors of:     3 O at:   0.0000  3.5815  3.5815
+    2 Ti                    1.8953  Ang. Really at:   3.5815  3.5815  3.5815
+    2 Ti                    1.8953  Ang. Really at:  -3.5815  3.5815  3.5815
+    5 O                     2.6803  Ang. Really at:   3.5815  3.5815  0.0000
+    4 O                     2.6803  Ang. Really at:   3.5815  0.0000  3.5815
+    5 O                     2.6803  Ang. Really at:   3.5815  3.5815  7.1630
+    4 O                     2.6803  Ang. Really at:  -3.5815  0.0000  3.5815
+    1 Ba                    2.6803  Ang. Really at:   0.0000  7.1630  0.0000
+    4 O                     2.6803  Ang. Really at:  -3.5815  7.1630  3.5815
+    4 O                     2.6803  Ang. Really at:   3.5815  7.1630  3.5815
+    1 Ba                    2.6803  Ang. Really at:   0.0000  0.0000  7.1630
+    5 O                     2.6803  Ang. Really at:  -3.5815  3.5815  7.1630
+    5 O                     2.6803  Ang. Really at:  -3.5815  3.5815  0.0000
+    1 Ba                    2.6803  Ang. Really at:   0.0000  7.1630  7.1630
+    1 Ba                    2.6803  Ang. Really at:   0.0000  0.0000  0.0000
+Neighbors of:     4 O at:   3.5815  0.0000  3.5815
+    2 Ti                    1.8953  Ang. Really at:   3.5815 -3.5815  3.5815
+    2 Ti                    1.8953  Ang. Really at:   3.5815  3.5815  3.5815
+    1 Ba                    2.6803  Ang. Really at:   7.1630  0.0000  0.0000
+    5 O                     2.6803  Ang. Really at:   3.5815 -3.5815  7.1630
+    3 O                     2.6803  Ang. Really at:   7.1630 -3.5815  3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000 -3.5815  3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000  3.5815  3.5815
+    5 O                     2.6803  Ang. Really at:   3.5815  3.5815  0.0000
+    3 O                     2.6803  Ang. Really at:   7.1630  3.5815  3.5815
+    1 Ba                    2.6803  Ang. Really at:   0.0000  0.0000  0.0000
+    1 Ba                    2.6803  Ang. Really at:   0.0000  0.0000  7.1630
+    1 Ba                    2.6803  Ang. Really at:   7.1630  0.0000  7.1630
+    5 O                     2.6803  Ang. Really at:   3.5815  3.5815  7.1630
+    5 O                     2.6803  Ang. Really at:   3.5815 -3.5815  0.0000
+Neighbors of:     5 O at:   3.5815  3.5815  0.0000
+    2 Ti                    1.8953  Ang. Really at:   3.5815  3.5815  3.5815
+    2 Ti                    1.8953  Ang. Really at:   3.5815  3.5815 -3.5815
+    1 Ba                    2.6803  Ang. Really at:   0.0000  0.0000  0.0000
+    3 O                     2.6803  Ang. Really at:   0.0000  3.5815  3.5815
+    1 Ba                    2.6803  Ang. Really at:   7.1630  0.0000  0.0000
+    4 O                     2.6803  Ang. Really at:   3.5815  7.1630 -3.5815
+    1 Ba                    2.6803  Ang. Really at:   0.0000  7.1630  0.0000
+    1 Ba                    2.6803  Ang. Really at:   7.1630  7.1630  0.0000
+    4 O                     2.6803  Ang. Really at:   3.5815  0.0000  3.5815
+    3 O                     2.6803  Ang. Really at:   7.1630  3.5815 -3.5815
+    3 O                     2.6803  Ang. Really at:   0.0000  3.5815 -3.5815
+    3 O                     2.6803  Ang. Really at:   7.1630  3.5815  3.5815
+    4 O                     2.6803  Ang. Really at:   3.5815  7.1630  3.5815
+    4 O                     2.6803  Ang. Really at:   3.5815  0.0000 -3.5815

@@ -1,0 +1,65 @@
+Neighbors of:     1 Sr at:   0.0000  0.0000  0.0000
+    4 O                     2.7593  Ang. Really at:   3.6871  0.0000 -3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000  3.6871 -3.6871
+    5 O                     2.7593  Ang. Really at:  -3.6871 -3.6871  0.0000
+    5 O                     2.7593  Ang. Really at:   3.6871 -3.6871  0.0000
+    4 O                     2.7593  Ang. Really at:  -3.6871  0.0000 -3.6871
+    5 O                     2.7593  Ang. Really at:  -3.6871  3.6871  0.0000
+    5 O                     2.7593  Ang. Really at:   3.6871  3.6871  0.0000
+    3 O                     2.7593  Ang. Really at:   0.0000 -3.6871  3.6871
+    4 O                     2.7593  Ang. Really at:  -3.6871  0.0000  3.6871
+    4 O                     2.7593  Ang. Really at:   3.6871  0.0000  3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000  3.6871  3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000 -3.6871 -3.6871
+Neighbors of:     2 Ti at:   3.6871  3.6871  3.6871
+    3 O                     1.9511  Ang. Really at:   0.0000  3.6871  3.6871
+    4 O                     1.9511  Ang. Really at:   3.6871  0.0000  3.6871
+    3 O                     1.9511  Ang. Really at:   7.3742  3.6871  3.6871
+    4 O                     1.9511  Ang. Really at:   3.6871  7.3742  3.6871
+    5 O                     1.9511  Ang. Really at:   3.6871  3.6871  7.3742
+    5 O                     1.9511  Ang. Really at:   3.6871  3.6871  0.0000
+Neighbors of:     3 O at:   0.0000  3.6871  3.6871
+    2 Ti                    1.9511  Ang. Really at:   3.6871  3.6871  3.6871
+    2 Ti                    1.9511  Ang. Really at:  -3.6871  3.6871  3.6871
+    5 O                     2.7593  Ang. Really at:   3.6871  3.6871  0.0000
+    4 O                     2.7593  Ang. Really at:   3.6871  0.0000  3.6871
+    5 O                     2.7593  Ang. Really at:   3.6871  3.6871  7.3742
+    4 O                     2.7593  Ang. Really at:  -3.6871  0.0000  3.6871
+    1 Sr                    2.7593  Ang. Really at:   0.0000  7.3742  0.0000
+    4 O                     2.7593  Ang. Really at:  -3.6871  7.3742  3.6871
+    4 O                     2.7593  Ang. Really at:   3.6871  7.3742  3.6871
+    1 Sr                    2.7593  Ang. Really at:   0.0000  0.0000  7.3742
+    5 O                     2.7593  Ang. Really at:  -3.6871  3.6871  7.3742
+    5 O                     2.7593  Ang. Really at:  -3.6871  3.6871  0.0000
+    1 Sr                    2.7593  Ang. Really at:   0.0000  7.3742  7.3742
+    1 Sr                    2.7593  Ang. Really at:   0.0000  0.0000  0.0000
+Neighbors of:     4 O at:   3.6871  0.0000  3.6871
+    2 Ti                    1.9511  Ang. Really at:   3.6871 -3.6871  3.6871
+    2 Ti                    1.9511  Ang. Really at:   3.6871  3.6871  3.6871
+    1 Sr                    2.7593  Ang. Really at:   7.3742  0.0000  0.0000
+    5 O                     2.7593  Ang. Really at:   3.6871 -3.6871  7.3742
+    3 O                     2.7593  Ang. Really at:   7.3742 -3.6871  3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000 -3.6871  3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000  3.6871  3.6871
+    5 O                     2.7593  Ang. Really at:   3.6871  3.6871  0.0000
+    3 O                     2.7593  Ang. Really at:   7.3742  3.6871  3.6871
+    1 Sr                    2.7593  Ang. Really at:   0.0000  0.0000  0.0000
+    1 Sr                    2.7593  Ang. Really at:   0.0000  0.0000  7.3742
+    1 Sr                    2.7593  Ang. Really at:   7.3742  0.0000  7.3742
+    5 O                     2.7593  Ang. Really at:   3.6871  3.6871  7.3742
+    5 O                     2.7593  Ang. Really at:   3.6871 -3.6871  0.0000
+Neighbors of:     5 O at:   3.6871  3.6871  0.0000
+    2 Ti                    1.9511  Ang. Really at:   3.6871  3.6871  3.6871
+    2 Ti                    1.9511  Ang. Really at:   3.6871  3.6871 -3.6871
+    1 Sr                    2.7593  Ang. Really at:   0.0000  0.0000  0.0000
+    3 O                     2.7593  Ang. Really at:   0.0000  3.6871  3.6871
+    1 Sr                    2.7593  Ang. Really at:   7.3742  0.0000  0.0000
+    4 O                     2.7593  Ang. Really at:   3.6871  7.3742 -3.6871
+    1 Sr                    2.7593  Ang. Really at:   0.0000  7.3742  0.0000
+    1 Sr                    2.7593  Ang. Really at:   7.3742  7.3742  0.0000
+    4 O                     2.7593  Ang. Really at:   3.6871  0.0000  3.6871
+    3 O                     2.7593  Ang. Really at:   7.3742  3.6871 -3.6871
+    3 O                     2.7593  Ang. Really at:   0.0000  3.6871 -3.6871
+    3 O                     2.7593  Ang. Really at:   7.3742  3.6871  3.6871
+    4 O                     2.7593  Ang. Really at:   3.6871  7.3742  3.6871
+    4 O                     2.7593  Ang. Really at:   3.6871  0.0000 -3.6871

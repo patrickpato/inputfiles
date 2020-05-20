@@ -1,0 +1,137 @@
+SystemName      Barium titanate (BaTiO3) cubic structure
+#               Don't alter anything in this file.
+#               Cubic phase
+#               PBE-SOL functional
+#               Theoretical lattice constant obtained for the Hamann pseudos
+#               (taken from the pseudo-dojo web page)
+#               Mesh Cutoff: 600 Ry
+#               Monkhorst-Pack grid: 6 x 6 x 6 ; displaced 0.5 0.5 0.5 
+
+SystemLabel	BaTiO3
+NumberOfSpecies	3
+NumberOfAtoms	5
+%block ChemicalSpeciesLabel
+      1      56     Ba
+      2      22     Ti
+      3       8     O
+%endblock ChemicalSpeciesLabel
+
+%block PS.lmax
+   Ba    3
+   Ti    3
+    O    3
+%endblock PS.lmax
+
+PAO.Basis  < BaTiO3basis.fdf
+
+LatticeConstant       4.389 Ang    # Theoretical lattice constant for the
+                                      #    cubic phase  
+%block LatticeVectors
+  1.00  0.00  0.00
+  0.00  1.00  0.00
+  0.00  0.00  1.00
+%endblock LatticeVectors
+
+AtomicCoordinatesFormat	     Fractional
+%block AtomicCoordinatesAndAtomicSpecies
+  0.00  0.00  0.00       1     137.327      Ba
+  0.50  0.50  0.50       2      47.867      Ti
+  0.00  0.50  0.50       3      15.9994     O
+  0.50  0.00  0.50       3      15.9994     O
+  0.50  0.50  0.00       3      15.9994     O
+%endblock AtomicCoordinatesAndAtomicSpecies
+
+
+%block kgrid_Monkhorst_Pack
+   6  0  0  0.5
+   0  6  0  0.5
+   0  0  6  0.5
+%endblock kgrid_Monkhorst_Pack
+
+%block XC.cocktail                  # Perdew-Burke-Ernzerhof SOL functional taken from the libxc library
+2
+GGA LIBXC-0116-GGA_X_PBE_SOL  1.0  0.0
+GGA LIBXC-0133-GGA_C_PBE_SOL  0.0  1.0
+%endblock XC.cocktail
+
+
+MeshCutoff             600 Ry      # Defines the plane wave cutoff for the grid
+DM.NumberPulay         3           # It controls the Pulay convergence 
+                                   #   accelerator.
+DM.UseSaveDM           .true.      # Use the Density Matrix from the DM file 
+                                   #   if found
+DM.Tolerance           1.d-4       # Tolerance in maximum difference
+                                   # between input and output DM
+MaxSCFIterations       100         # Maximum number of SCF Iterations
+ElectronicTemperature  0.075 eV    # Electronic Temperature for the smearing
+                                   #   of the Fermi-Dirac occupation function
+SCF.MixAfterConvergence .false.    # Logical variable to indicate whether mixing
+                                   #   is done in the last SCF cycle 
+                                   #   (after convergence has been achieved) 
+                                   #   or not. 
+                                   #   Not mixing after convergence improves 
+                                   #   the quality of the final Kohn-Sham 
+                                   #   energy and of the forces when mixing 
+                                   #   the DM.
+
+#
+# Molecular Dynamic or Relaxation variables
+#
+
+MD.TypeOfRun            cg          # Type of dynamics:
+                                    #   - CG
+                                    #   - Verlet
+                                    #   - Nose
+                                    #   - Parrinello-Rahman
+                                    #   - Nose-Parrinello-Rahman
+                                    #   - Anneal
+                                    #   - FC
+MD.VariableCell         .true.      # The lattice is relaxed together with
+                                    # the atomic coordinates?
+MD.NumCGsteps            0          # Number of CG steps for
+                                    #   coordinate optimization
+MD.MaxCGDispl           0.3 Bohr    # Maximum atomic displacement
+                                    #   in one CG step
+MD.MaxForceTol         0.01 eV/Ang  # Tolerance in the maximum
+                                    #   atomic force
+MD.MaxStressTol        0.0001 eV/Ang**3  
+                                    # Tolerance in the maximum
+                                    #   stress in a MD.VariableCell CG optimi.
+
+MD.UseSaveXV           .false.      # Instructs Siesta to read the 
+                                    #   atomic positions and velocities stored
+                                    #   in file SystemLabel.XV by a 
+                                    #   previous run.
+MD.UseSaveCG           .false.      # Instructs to read the conjugate-gradient 
+                                    #   hystory information stored in file 
+                                    #
+
+#
+# Plotting the band structure
+#
+
+BandLinesScale pi/a
+%block BandLines
+1   0.0 0.0 0.0 \Gamma              # Start at \Gamma
+100 1.0 0.0 0.0 X                   # 100 points from \Gamma to X
+100 1.0 1.0 0.0 M                   # 100 points from X to M
+100 1.0 1.0 1.0 R                   # 100 points from M to R
+173 0.0 0.0 0.0 \Gamma              # 173 points from R to \Gamma
+141 0.0 1.0 1.0 M                   # 141 points from \Gamma to M
+100 0.0 0.0 1.0 X                   # 100 points from M to X
+141 1.0 1.0 1.0 R                   # 141 points from X to R
+%endblock BandLines
+
+#
+# Plotting the Projected Density Of States
+#
+
+%block ProjectedDensityOfStates
+  -70.00  20.00  0.150 3000  eV
+%endblock ProjectedDensityOfStates
+
+%PDOS.kgrid_Monkhorst_Pack
+   120  0  0  0.5
+    0 120  0  0.5
+    0  0 120  0.5
+%end PDOS.kgrid_Monkhorst_Pack
